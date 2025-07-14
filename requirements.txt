@@ -1,0 +1,22 @@
+# Core deep learning and image processing libraries
+torch
+torchvision
+opencv-python
+tqdm
+albumentations
+timm
+
+# Transformers and fine-tuning utilities
+transformers
+peft
+bitsandbytes
+einops
+positional-encodings
+accelerate
+datasets
+wandb
+evaluate
+bert_score
+sentencepiece
+open_clip_torch
+huggingface_hub
