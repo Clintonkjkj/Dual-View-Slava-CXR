@@ -57,7 +57,7 @@ _(Results in `/Evaluate/Results_IU_Xray`)_
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/Dual-View-Slava-CXR.git
+git clone https://github.com/Clintonkjkj/Dual-View-Slava-CXR.git
 cd Dual-View-Slava-CXR
 
 # Set up virtual environment
