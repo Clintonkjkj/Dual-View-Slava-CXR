@@ -44,10 +44,10 @@
 
 ## 📊 Evaluation Metrics
 
-| Dataset   | BLEU | ROUGE-L | METEOR | RadGraph F1 | CheXbert F1 |
-| --------- | ---- | ------- | ------ | ----------- | ----------- |
-| MIMIC-CXR | ✅   | ✅      | ✅     | ✅          | ✅          |
-| IU X-Ray  | ✅   | ✅      | ✅     | ✅          | ✅          |
+| Dataset   | BLEU | ROUGE-L | METEOR | BERT | RadGraph F1 | CheXbert F1 |
+| --------- | ---- | ------- | ------ | ---- | ----------- | ----------- |
+| MIMIC-CXR | ✅   | ✅      | ✅     | ✅   | ✅          | ✅          |
+| IU X-Ray  | ✅   | ✅      | ✅     | ✅   | ✅          | ✅          |
 
 _(Results in `/Evaluate/Results_IU_Xray`)_
 
