@@ -1,4 +1,4 @@
-# 🩻 Dual-View SLaVA-CXR
+# Dual-View SLaVA-CXR
 
 **Dual-View SLaVA-CXR** is a vision-language model for structured radiology report generation from frontal and lateral chest X-rays. Built on the Re³ (Recognize–Reason–Report) paradigm and extending the original SLaVA-CXR model, this project integrates dual-view vision fusion and leverages CLIP, BiomedCLIP, and Phi-2 for enhanced anatomical reasoning.
 
